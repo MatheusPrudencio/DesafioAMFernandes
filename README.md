@@ -69,7 +69,7 @@ Para isso usei a função de ordem superior sort com um tratamento nos dados de 
 
 Para mostrar esse resultado na tela decidi usar a biblioteca React com a ajuda da biblioteca @material-ui/core para facilitar a implementação de uma tabela bonita.
 
- <img src=”/ResultadoDesafioAMFernandes.PNG”>
+![Resultado Final](ResultadoDesafioAMFernandes.PNG)
 
 ## Rodando a aplicação
 
